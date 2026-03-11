@@ -1,0 +1,3 @@
+[submodule "external/acc-models-sps"]
+	path = external/acc-models-sps
+	url = ssh://git@gitlab.cern.ch:7999/acc-models/acc-models-sps.git
