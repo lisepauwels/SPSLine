@@ -1,0 +1,132 @@
+{
+  "fits": [
+    {
+      "source_point_table": "/Users/lisepauwels/phd/data/sps-measurements/results_chroma/analysis_chroma_harmonics/tables/tune_sweep_map_by_harmonic.csv",
+      "source_spline_map": "/Users/lisepauwels/phd/data/sps-measurements/results_chroma/analysis_chroma_harmonics/tune_maps/npz/measured_tune_map_h0_fit_on_all_points.npz",
+      "harmonic_index": 0,
+      "degree": 4,
+      "coefficient_order": "ascending_in_power_of_delta",
+      "qx_coefficients": [
+        20.135535824977346,
+        1.3522157005522508,
+        -501.5724668554806,
+        -98516.12238238202,
+        40325329.202421896
+      ],
+      "qy_coefficients": [
+        20.178981746444332,
+        1.4191477402189625,
+        -886.8119292050295,
+        38144.506688347676,
+        43524952.068756945
+      ],
+      "fit_range": {
+        "delta_min": -0.003,
+        "delta_max": 0.003
+      },
+      "qx_rmse_vs_points": 0.001527100276971474,
+      "qy_rmse_vs_points": 0.0014604567679505477,
+      "qx_rmse_vs_spline": 0.00026060163036896217,
+      "qy_rmse_vs_spline": 0.00028127912890278504
+    },
+    {
+      "source_point_table": "/Users/lisepauwels/phd/data/sps-measurements/results_chroma/analysis_chroma_harmonics/tables/tune_sweep_map_by_harmonic.csv",
+      "source_spline_map": "/Users/lisepauwels/phd/data/sps-measurements/results_chroma/analysis_chroma_harmonics/tune_maps/npz/measured_tune_map_h0_fit_on_all_points.npz",
+      "harmonic_index": 0,
+      "degree": 5,
+      "coefficient_order": "ascending_in_power_of_delta",
+      "qx_coefficients": [
+        20.13553669076396,
+        1.4749935865741584,
+        -502.631872662326,
+        -158650.64407489754,
+        40539861.136312895,
+        5655350925.000476
+      ],
+      "qy_coefficients": [
+        20.17898157035867,
+        1.3941768971812925,
+        -886.5964648527774,
+        50374.8011753661,
+        43481320.07998282,
+        -1150198010.874516
+      ],
+      "fit_range": {
+        "delta_min": -0.003,
+        "delta_max": 0.003
+      },
+      "qx_rmse_vs_points": 0.0015258265743323157,
+      "qy_rmse_vs_points": 0.0014604016998571029,
+      "qx_rmse_vs_spline": 0.0002666176445584292,
+      "qy_rmse_vs_spline": 0.00028148447470041464
+    },
+    {
+      "source_point_table": "/Users/lisepauwels/phd/data/sps-measurements/results_chroma/analysis_chroma_harmonics/tables/tune_sweep_map_by_harmonic.csv",
+      "source_spline_map": "/Users/lisepauwels/phd/data/sps-measurements/results_chroma/analysis_chroma_harmonics/tune_maps/npz/measured_tune_map_h0_fit_on_all_points.npz",
+      "harmonic_index": 0,
+      "degree": 6,
+      "coefficient_order": "ascending_in_power_of_delta",
+      "qx_coefficients": [
+        20.135664501243475,
+        1.472331083759417,
+        -753.24371570026,
+        -156730.19974753135,
+        117346432.37142478,
+        5415700359.283697,
+        -5829255414318.188
+      ],
+      "qy_coefficients": [
+        20.179159481792873,
+        1.3904707089631647,
+        -1235.4466733592453,
+        53048.048360153545,
+        150395614.57155102,
+        -1483790185.8947918,
+        -8114289181358.472
+      ],
+      "fit_range": {
+        "delta_min": -0.003,
+        "delta_max": 0.003
+      },
+      "qx_rmse_vs_points": 0.0015228378961512582,
+      "qy_rmse_vs_points": 0.0014543446268007645,
+      "qx_rmse_vs_spline": 0.0003045148848993594,
+      "qy_rmse_vs_spline": 0.0003395713214640893
+    },
+    {
+      "source_point_table": "/Users/lisepauwels/phd/data/sps-measurements/results_chroma/analysis_chroma_harmonics/tables/tune_sweep_map_by_harmonic.csv",
+      "source_spline_map": "/Users/lisepauwels/phd/data/sps-measurements/results_chroma/analysis_chroma_harmonics/tune_maps/npz/measured_tune_map_h0_fit_on_all_points.npz",
+      "harmonic_index": 0,
+      "degree": 7,
+      "coefficient_order": "ascending_in_power_of_delta",
+      "qx_coefficients": [
+        20.13566455746609,
+        0.7201357089633387,
+        -751.1144803848739,
+        559209.3299322876,
+        115115308.6506873,
+        -160317572490.31625,
+        -5554782012771.46,
+        1.0774392834755266e+16
+      ],
+      "qy_coefficients": [
+        20.17915944111928,
+        1.934638113870731,
+        -1236.9870450405476,
+        -464890.46732116566,
+        152009696.28991348,
+        118414108699.98009,
+        -8312853920805.653,
+        -7794615048891347.0
+      ],
+      "fit_range": {
+        "delta_min": -0.003,
+        "delta_max": 0.003
+      },
+      "qx_rmse_vs_points": 0.0014980735089467363,
+      "qy_rmse_vs_points": 0.001440820915066522,
+      "qx_rmse_vs_spline": 0.00039165883960067975,
+      "qy_rmse_vs_spline": 0.0003824181985426581
+    }
+  ]
+}

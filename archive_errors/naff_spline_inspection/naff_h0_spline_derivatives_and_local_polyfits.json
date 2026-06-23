@@ -1,0 +1,128 @@
+{
+  "source_map": "/Users/lisepauwels/phd/data/sps-measurements/results_chroma/analysis_chroma_harmonics/tune_maps/npz/measured_tune_map_h0_fit_on_all_points.npz",
+  "delta0": 0.0,
+  "map_delta_min": -0.003,
+  "map_delta_max": 0.003,
+  "requested_derivative_order": 1,
+  "spline_representation_note": "TuneMap uses a cubic spline. Derivatives above 3rd order are not meaningful for the spline itself.",
+  "spline_values": {
+    "qx": {
+      "value": 20.13518812822152,
+      "derivative_order_1": 1.3559371007394871,
+      "derivative_order_2": -328.161463343394,
+      "derivative_order_3": -601416.154302442
+    },
+    "qy": {
+      "value": 20.178606461606456,
+      "derivative_order_1": 1.423164415473902,
+      "derivative_order_2": -1045.0836535929163,
+      "derivative_order_3": 217739.04400646838
+    }
+  },
+  "local_polynomial_fits": {
+    "qx": {
+      "degree_4": {
+        "coefficient_order": "ascending_in_power_of_(delta-delta0)",
+        "coefficients": [
+          20.135188128221515,
+          1.3559371003469698,
+          -164.08072158836944,
+          -100234.0671518537,
+          -0.004654788498795291
+        ],
+        "rmse_vs_spline": 1.4737339801519436e-14
+      },
+      "degree_5": {
+        "coefficient_order": "ascending_in_power_of_(delta-delta0)",
+        "coefficients": [
+          20.135188128221515,
+          1.355937100364153,
+          -164.08072159555854,
+          -100234.06717258833,
+          0.0042938657548334674,
+          7.171798447402959
+        ],
+        "rmse_vs_spline": 9.38447821985185e-15
+      },
+      "degree_6": {
+        "coefficient_order": "ascending_in_power_of_(delta-delta0)",
+        "coefficients": [
+          20.135188128221536,
+          1.3559371003494596,
+          -164.08072167644968,
+          -100234.06715344108,
+          0.11100794089323823,
+          2.4519388869028003,
+          -34488.63005474903
+        ],
+        "rmse_vs_spline": 9.677477288417603e-15
+      },
+      "degree_7": {
+        "coefficient_order": "ascending_in_power_of_(delta-delta0)",
+        "coefficients": [
+          20.135188128221525,
+          1.355937100391545,
+          -164.0807215932407,
+          -100234.06729975055,
+          0.006367131193488062,
+          131.0839812408697,
+          2390.053082982683,
+          -33697025.161023356
+        ],
+        "rmse_vs_spline": 1.6943502017824728e-14
+      }
+    },
+    "qy": {
+      "degree_4": {
+        "coefficient_order": "ascending_in_power_of_(delta-delta0)",
+        "coefficients": [
+          20.178606461606456,
+          1.4231644153752374,
+          -522.5418209163403,
+          36290.251185473266,
+          0.009834277164112998
+        ],
+        "rmse_vs_spline": 1.1096188989328523e-14
+      },
+      "degree_5": {
+        "coefficient_order": "ascending_in_power_of_(delta-delta0)",
+        "coefficients": [
+          20.17860646160645,
+          1.4231644153824645,
+          -522.5418208770582,
+          36290.25117647264,
+          -0.0025470989577838117,
+          1.4502587097873092
+        ],
+        "rmse_vs_spline": 7.248319549227903e-15
+      },
+      "degree_6": {
+        "coefficient_order": "ascending_in_power_of_(delta-delta0)",
+        "coefficients": [
+          20.178606461606464,
+          1.4231644153758571,
+          -522.5418209074621,
+          36290.25118328808,
+          0.03386677923619241,
+          0.0,
+          -14147.113593160435
+        ],
+        "rmse_vs_spline": 8.79072319410925e-15
+      },
+      "degree_7": {
+        "coefficient_order": "ascending_in_power_of_(delta-delta0)",
+        "coefficients": [
+          20.178606461606453,
+          1.4231644154170149,
+          -522.5418209091646,
+          36290.25104219116,
+          0.02612514936437972,
+          123.08510751509417,
+          -4194.81188371304,
+          -31217692.00358518
+        ],
+        "rmse_vs_spline": 1.46093876160706e-14
+      }
+    }
+  }
+}

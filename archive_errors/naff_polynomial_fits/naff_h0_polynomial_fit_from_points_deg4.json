@@ -1,0 +1,29 @@
+{
+  "source_point_table": "/Users/lisepauwels/phd/data/sps-measurements/results_chroma/analysis_chroma_harmonics/tables/tune_sweep_map_by_harmonic.csv",
+  "source_spline_map": "/Users/lisepauwels/phd/data/sps-measurements/results_chroma/analysis_chroma_harmonics/tune_maps/npz/measured_tune_map_h0_fit_on_all_points.npz",
+  "harmonic_index": 0,
+  "degree": 4,
+  "coefficient_order": "ascending_in_power_of_delta",
+  "qx_coefficients": [
+    20.135535824977346,
+    1.3522157005522508,
+    -501.5724668554806,
+    -98516.12238238202,
+    40325329.202421896
+  ],
+  "qy_coefficients": [
+    20.178981746444332,
+    1.4191477402189625,
+    -886.8119292050295,
+    38144.506688347676,
+    43524952.068756945
+  ],
+  "fit_range": {
+    "delta_min": -0.003,
+    "delta_max": 0.003
+  },
+  "qx_rmse_vs_points": 0.001527100276971474,
+  "qy_rmse_vs_points": 0.0014604567679505477,
+  "qx_rmse_vs_spline": 0.00026060163036896217,
+  "qy_rmse_vs_spline": 0.00028127912890278504
+}
